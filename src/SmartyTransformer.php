@@ -1,7 +1,8 @@
 <?php
 
-namespace PhpTransformers\PhpTransformer;
+namespace PhpTransformers\Smarty;
 
+use PhpTransformers\PhpTransformer\Transformer;
 use Smarty;
 
 /**
