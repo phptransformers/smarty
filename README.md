@@ -14,7 +14,7 @@ $ composer require phptransformers/smarty
 
 ``` php
 $engine = new SmartyTransformer();
-echo $engine->render('Hello, {$name}!', array('name' => 'phptransformers');
+echo $engine->render('Hello, {$name}!', array('name' => 'phptransformers'));
 ```
 
 ## Testing
